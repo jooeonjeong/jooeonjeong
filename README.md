@@ -1,5 +1,6 @@
-## Hi there 👋
+# 🐥Hi there!
 
+매일매일 성장해나갈 예비 개발자 정주은입니다.
 <!--
 **jooeonjeong/jooeonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 !-->
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=august2017)](https://solved.ac/august2017)<br/>
