@@ -29,9 +29,12 @@ jooeun0807@naver.com
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <br><br>
 ## ✏ Education
+- 숭실대학교 일어일문학과
 - 2022-06-17 ~ 11-29 **쌍용교육센터 자바 기반 AWS 클라우드 활용 Full-Stack 개발자 양성 과정**
 - 2024-07-02 ~ ing **SSAFY(삼성 청년 SW 아카데미) 12기**
-  
+<br><br>
+## Certificate
+-정보처리기사
 <br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=august2017)](https://solved.ac/august2017)<br/> 
 
