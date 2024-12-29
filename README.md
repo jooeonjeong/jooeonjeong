@@ -38,7 +38,7 @@ jooeun0807@naver.com
 - 정보처리기사
 - JLPT N1
 <br><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=august2017)](https://solved.ac/august2017)<br/> 
+
 
 ​
 ​
