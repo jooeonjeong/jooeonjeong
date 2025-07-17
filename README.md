@@ -1,6 +1,6 @@
-# 🐥 Hi there!
+# 안녕하세요. 사용자 관점에서 생각하고, 화면으로 답하는 개발자 정주은입니다!
 
-매일매일 성장해나갈 성장형 개발자 정주은입니다.    
+
 <br><br>
 <!--
 **jooeonjeong/jooeonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
