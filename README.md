@@ -1,43 +1,38 @@
-# 안녕하세요. 사용자 관점에서 생각하고, 화면으로 답하는 개발자 정주은입니다!
-
-
-<br><br>
-<!--
-**jooeonjeong/jooeonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
-!-->
-
-## 📩 EMAIL
-jooeun0807@naver.com
+# 안녕하세요. 정주은입니다.
+저는 사용자 경험을 중요하게 생각하며, 
+더 나은 화면과 기능을 고민하는 프론트엔드 개발자입니다.<br>
+단순히 구현에 그치지 않고, 사용자의 입장에서 문제를 정의하고 해결하려고 노력합니다. 
 <br><br>
 ## ✏ Education
 - 숭실대학교 일어일문학과
 - 2022-06-17 ~ 11-29 **쌍용교육센터 자바 기반 AWS 클라우드 활용 Full-Stack 개발자 양성 과정**
 - 2024-07-02 ~ ing **SSAFY(삼성 청년 SW 아카데미) 12기**
 <br><br>
-## ⚙ Tech Stacks
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+## 📩 EMAIL
+jooeun0807@naver.com
 <br><br>
 
-## Certificate
-- 정보처리기사
-- JLPT N1
-<br><br><br>
+## ⚙ Tech Stacks
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
+### Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+<br>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br><br>
+
 
 
 ​
